@@ -1,0 +1,9 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "description": "Tableau Extension",
+  "main": "index.js",
+  "repository": "https://github.com/mohsinha91/tableau-extensions-tutorial-part-one",
+  "author": "mohsinsha91 <mohsinsha91@gmail.com>",
+  "license": "MIT"
+}
